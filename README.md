@@ -55,10 +55,11 @@ NLP PIPELINE
   - Accuracy Score Performance comparison between models
   - Analysis of feature representation impact
 
+RESULTS
 Two classification models were tested in this project.
 
-Logistic Regression Accuracy: 49.00%
-SGDClassifier Accuracy: 49.17%
+-Logistic Regression Accuracy: 49.00%
+-SGDClassifier Accuracy: 49.17%
 
  - Best Model: SGDClassifier (49.17%)
 
