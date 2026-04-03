@@ -84,6 +84,22 @@ The SGDClassifier slightly outperformed Logistic Regression, although both model
 
 ---
 
+## Visualizations
+
+### Dataset Distribution
+![Dataset Distribution](images/class_distribution.png)
+
+### Sentiment Analysis by News Type
+![Sentiment](images/sentiment_analysis.png)
+
+### Topic Modeling Coherence (LDA)
+![Coherence](images/lda_coherence.png)
+
+### Most Common Unigrams
+![Unigrams](images/unigrams.png)
+
+---
+
 ## Project Structure
 
 fake-news-classification-using-nlp/ 
