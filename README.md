@@ -1,5 +1,10 @@
 Fake News Classification Using NLP & Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-green)
+![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 An end-to-end Natural Language Processing (NLP) project that classifies news articles as Fake or Real using multiple text representation techniques and machine learning models.
 
 This project demonstrates a complete NLP pipeline—from preprocessing and feature engineering to topic modeling and classification.
