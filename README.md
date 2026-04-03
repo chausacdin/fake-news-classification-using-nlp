@@ -86,6 +86,8 @@ The SGDClassifier slightly outperformed Logistic Regression, although both model
 
 ## Visualizations
 
+The following plots highlight key insights from the dataset and NLP pipeline.
+
 ### Dataset Distribution
 ![Dataset Distribution](images/class_distribution.png)
 
