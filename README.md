@@ -128,7 +128,9 @@ fake-news-classification-using-nlp/
 ---
 
 ## Author: 
-Charleen
+
+✨ Charleen ✨  
+
 - QA / Regulatory Radiopharmacist, exploring AI and machine learning applications  
 - Building foundational NLP and data science projects to develop technical expertise  
 - Focused on applying AI to real-world healthcare and regulatory systems
