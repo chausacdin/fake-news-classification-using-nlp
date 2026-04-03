@@ -1,4 +1,4 @@
-#Fake News Classification Using NLP & Machine Learning
+# Fake News Classification Using NLP & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Processing-green)
@@ -11,7 +11,7 @@ This project demonstrates a complete NLP pipeline—from preprocessing and featu
 
 ---
 
-## KEY HIGHLIGHTS
+## Key Highlights
 - Built a full NLP pipeline using a real-world news dataset
 - Implemented both CountVectorizer and TF-IDF
 - Explored topic modeling (LDA & LSA)
@@ -21,13 +21,13 @@ This project demonstrates a complete NLP pipeline—from preprocessing and featu
 
 ---
 
-## PROBLEM STATEMENT
+## Problem Statement
 - With the rise of misinformation online, detecting fake news has become critical.
   This project aims to classify news articles based purely on textual content using NLP   techniques.
 
 ---
 
-## TECH STACK
+## Tech Stack
 - Python
 - Pandas, NumPy
 - NLTK & spaCy
@@ -37,7 +37,7 @@ This project demonstrates a complete NLP pipeline—from preprocessing and featu
 
 ---
 
-## NLP PIPELINE
+## NLP Pipeline
 
 ### 1. Data Processing
   - Loaded labeled dataset:
@@ -112,7 +112,7 @@ fake-news-classification-using-nlp/
 
 ---
 
-## KEY LEARNINGS
+## Key Learnings
 - Feature engineering (TF-IDF vs Bag-of-Words) significantly affects performance
 - Linear models (Logistic Regression and SGDClassifier) can  perform competitively in NLP tasks
 - Topic Modeling helps provide deeper insight into text data
@@ -120,14 +120,14 @@ fake-news-classification-using-nlp/
 
 ---
 
-## FUTURE IMPROVEMENTS
+## Future Improvements
 - Improve preprocessing pipeline
 - Perform hyperparameter tuning
 - Implement transformer-based models (BERT)
 
 ---
 
-## AUTHOR: 
+## Author: 
 Charleen
 - QA / Regulatory Radiopharmacist, exploring AI and machine learning applications  
 - Building foundational NLP and data science projects to develop technical expertise  
